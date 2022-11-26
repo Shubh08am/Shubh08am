@@ -1,29 +1,32 @@
 <h1 align="center">Hi 👋, I'm Shubham Yadav</h1>
-<h3 align="center">Second Year CSE Undergraduate at NIT RAIPUR</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh08am&label=Visitors%20Count&color=0e75b6&style=flat" alt="shubh08am" /> </p>
 
 
+- 👷 <samp>  Pursuing Computer Science & Engineering from National Institute of Technology Raipur.Currently, I'm in Second Year and I have a keen interest in Competitive Programming
+- 🌱 <samp> I’m currently learning **Data Structures and Algorithms using C++** and **Web Development**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms using C++** and **Exploring new domains and Technologies and learning everyday**
+- 🤝 <samp> I’m looking for help with **Web Development**
 
-- 🤝 I’m looking for help with **DSA Problem Solving**
+- 💬 <samp> Ask me about **DSA , Competitive Programming**
 
-- 💬 Ask me about **DSA , Competitive Programming .**
+- 📫 <samp> You can reach me on **Shubh08am@gmail.com** 
 
-- 📫 You can reach me on **LinkedIn** 
-
-- ⚡ Fun Fact **Too much serious to be funny**
+- ⚡ <samp> Fun Fact **Too much serious to be funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/-shubham-yadav-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-shubham-yadav-" height="30" width="40" /></a>
+ 
+ [![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/-shubham-yadav-)
  <h3 align="left">Coding Profiles:</h3>
 <p align="left">  
-<a href="https://www.codechef.com/users/imshubham_08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shubh08am" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Shubh08am" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" alt="shubh08am" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shubh08am" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubh08am" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shubh08am" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubh08am" height="30" width="40" /></a>
+ 
+[![Leetcode](https://img.shields.io/badge/-Leetcode-000000?style=for-the-badge&logo=Leetcode&logoColor=yellow)](https://www.leetcode.com/shubh08am)
+[![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/imshubham_08)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Shubh08am) 
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/shubh08am)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-023020?style=for-the-badge&logo=GeeksforGeeks&logoColor=green)](https://auth.geeksforgeeks.org/user/shubh08am/practice/)
+
 </p>
 
 <h3 align="left">Languages:</h3>
