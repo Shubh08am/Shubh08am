@@ -37,14 +37,29 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=Bootstrap&logoColor=yellow)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubh08am" alt="shubh08am" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh08am&show_icons=true&locale=en&layout=compact" alt="shubh08am" /></p>
+<hr>  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubh08am&show_icons=true&locale=en" alt="shubh08am" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh08am&" alt="shubh08am" /></p>
-
+### <samp>Github Stats
+  
+<p align="center">
+  <a href="https://github.com/shubh08am"><span>
+    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=shubh08am&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh08am&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh08am&show_icons=true&locale=en&theme=dracula" alt="shubh08am"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubh08am&theme=dracula" />
+    </span></a>
+  
+</p>
+  
+  
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/shubh08am/count.svg" />
+</p>
+  
+![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
+ 
 
 <!---
 Shubh08am/Shubh08am is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
