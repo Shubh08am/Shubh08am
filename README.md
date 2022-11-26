@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh08am&label=Visitors%20Count&color=0e75b6&style=flat" alt="shubh08am" /> </p>
 
 
-- 👷 <samp>  Pursuing Computer Science & Engineering from National Institute of Technology Raipur.Currently, I'm in Second Year and I have a keen interest in Competitive Programming
+- 👷 <samp>  Pursuing ***Computer Science & Engineering*** from **National Institute of Technology Raipur**.Currently, I'm in Second Year and I have a keen interest in ***Competitive Programming***
 - 🌱 <samp> I’m currently learning **Data Structures and Algorithms using C++** and **Web Development**
 
 - 🤝 <samp> I’m looking for help with **Web Development**
@@ -12,7 +12,7 @@
 
 - 📫 <samp> You can reach me on **Shubh08am@gmail.com** 
 
-- ⚡ <samp> Fun Fact **Too much serious to be funny**
+- ⚡ <samp> Fun Fact **Too much ***serious*** to be funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
