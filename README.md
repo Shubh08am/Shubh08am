@@ -6,7 +6,7 @@
 - 👷 <samp>  Pursuing ***Computer Science & Engineering*** from **National Institute of Technology Raipur**.Currently, I'm in Final Year and I have a keen interest in ***Competitive Programming***
 - 🌱 <samp> I’m currently learning **Data Structures and Algorithms using C++** and **Web Development**
 
-- 🤝 <samp> I’m looking for help with **Web Development**
+- 🤝 <samp> I’m looking for **Intern/Full Time Opportunities in SWE Domain**
 
 - 💬 <samp> Ask me about **DSA , Competitive Programming**
 
