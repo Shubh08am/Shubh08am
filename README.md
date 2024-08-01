@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh08am&label=Visitors%20Count&color=0e75b6&style=flat" alt="shubh08am" /> </p>
 
 
-- 👷 <samp>  Pursuing ***Computer Science & Engineering*** from **National Institute of Technology Raipur**.Currently, I'm in Third Year and I have a keen interest in ***Competitive Programming***
+- 👷 <samp>  Pursuing ***Computer Science & Engineering*** from **National Institute of Technology Raipur**.Currently, I'm in Final Year and I have a keen interest in ***Competitive Programming***
 - 🌱 <samp> I’m currently learning **Data Structures and Algorithms using C++** and **Web Development**
 
 - 🤝 <samp> I’m looking for help with **Web Development**
